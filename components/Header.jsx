@@ -13,9 +13,6 @@ export default function Header() {
             <span className="text-xl font-bold tracking-tight text-white group-hover:text-amber-400 transition-colors">
               Movie Explorer
             </span>
-            <span className="hidden text-xs text-zinc-400 sm:block">
-              Powered by TVMaze API
-            </span>
           </div>
         </Link>
 

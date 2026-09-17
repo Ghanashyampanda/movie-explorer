@@ -115,9 +115,6 @@ export default function Home() {
     <main className="mx-auto max-w-7xl px-4 py-8 sm:px-6 lg:px-8">
       {/* Hero Header Section */}
       <section className="mb-10 text-center">
-        <div className="inline-flex items-center gap-2 rounded-full border border-amber-500/20 bg-amber-500/10 px-3 py-1 text-xs font-medium text-amber-400">
-          <span>✨ Explore TV Shows & Movies</span>
-        </div>
         <h1 className="mt-4 text-3xl font-extrabold tracking-tight text-white sm:text-4xl md:text-5xl">
           Discover Your Next Favorite Show
         </h1>
